@@ -1,7 +1,7 @@
 ---
 title: Is Coursera Plus Worth It in 2026? An Honest Break-Even Analysis
 description: Coursera Plus costs $399 a year — or does it? Real pricing, what's actually included, the billing complaints, and the simple math that decides if it's worth it.
-date: 2026-08-14
+date: 2026-08-10
 slug: coursera-plus-review
 ---
 
