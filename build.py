@@ -17,7 +17,7 @@ SITE_TAGLINE = "Honest reviews of AI-powered learning tools"
 SITE_URL = "https://yameyaku.com"
 CUSTOM_DOMAIN = "yameyaku.com"
 # Google Analytics 4 の測定ID(例: "G-XXXXXXXXXX")。空なら埋め込まない
-GA_MEASUREMENT_ID = ""
+GA_MEASUREMENT_ID = "G-VQHSDY43D3"
 
 PAGE = """<!doctype html>
 <html lang="en">
