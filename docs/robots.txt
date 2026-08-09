@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yameyaku.com/sitemap.xml
