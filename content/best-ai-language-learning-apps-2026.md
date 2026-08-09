@@ -60,7 +60,7 @@ The AI layer sits on top of that curriculum rather than replacing it. Speech rec
 
 **Where it falls short:** The content realistically takes you to low-intermediate (around B1) and stops. The AI conversations are guided scenarios, not open-ended chat — if you go off-script, the rails are visible. And the standard subscription covers *one* language; you need the Lifetime plan to unlock all 14.
 
-**Verdict:** If you want an app that treats you like an adult who can handle a grammar explanation, Babbel is the strongest structured option on this list. The Lifetime deal, when discounted, is one of the best per-dollar values in language learning.
+**Verdict:** If you want an app that treats you like an adult who can handle a grammar explanation, Babbel is the strongest structured option on this list. The Lifetime deal, when discounted, is one of the best per-dollar values in language learning. For pricing details, the catalog's weak spots, and who should skip it, read our [full Babbel review](../babbel-review-2026/index.html).
 
 **Pros:**
 - Curriculum designed by linguists, aligned to CEFR levels
