@@ -26,6 +26,7 @@ PAGE = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <meta name="description" content="{description}">
+<meta name='impact-site-verification' value='9459d185-2e61-43bf-96f3-c7cd7f9542af'>
 <link rel="stylesheet" href="{root}style.css">
 {analytics}</head>
 <body>
