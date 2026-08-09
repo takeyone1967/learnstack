@@ -16,6 +16,8 @@ SITE_NAME = "LearnStack"
 SITE_TAGLINE = "Honest reviews of AI-powered learning tools"
 SITE_URL = "https://yameyaku.com"
 CUSTOM_DOMAIN = "yameyaku.com"
+# Google Analytics 4 の測定ID(例: "G-XXXXXXXXXX")。空なら埋め込まない
+GA_MEASUREMENT_ID = ""
 
 PAGE = """<!doctype html>
 <html lang="en">
@@ -25,7 +27,7 @@ PAGE = """<!doctype html>
 <title>{title}</title>
 <meta name="description" content="{description}">
 <link rel="stylesheet" href="{root}style.css">
-</head>
+{analytics}</head>
 <body>
 <header class="site-header">
   <div class="wrap">
@@ -46,6 +48,15 @@ PAGE = """<!doctype html>
 </body>
 </html>
 """
+
+
+ANALYTICS = ""
+if GA_MEASUREMENT_ID:
+    ANALYTICS = (
+        f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>'
+        '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+        f"gtag('js',new Date());gtag('config','{GA_MEASUREMENT_ID}');</script>"
+    )
 
 
 def parse_front_matter(text: str):
@@ -90,7 +101,7 @@ def build():
             title=f"{title} | {SITE_NAME}",
             description=meta.get("description", ""),
             body=f'<article class="post">{render_markdown(body)}</article>',
-            root="../", site_name=SITE_NAME, tagline=SITE_TAGLINE,
+            root="../", site_name=SITE_NAME, tagline=SITE_TAGLINE, analytics=ANALYTICS,
             year=date.today().year,
         ), encoding="utf-8")
         articles.append({**meta, "slug": slug, "title": title})
@@ -114,7 +125,7 @@ def build():
         description="Honest, research-driven reviews of AI learning tools, "
                     "language apps, and online course platforms.",
         body=f'{intro}<section class="cards">{cards}</section>',
-        root="", site_name=SITE_NAME, tagline=SITE_TAGLINE,
+        root="", site_name=SITE_NAME, tagline=SITE_TAGLINE, analytics=ANALYTICS,
         year=date.today().year,
     ), encoding="utf-8")
     urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{a['slug']}/" for a in articles]
