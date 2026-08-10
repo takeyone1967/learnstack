@@ -27,6 +27,7 @@ PAGE = """<!doctype html>
 <title>{title}</title>
 <meta name="description" content="{description}">
 <meta name='impact-site-verification' value='9459d185-2e61-43bf-96f3-c7cd7f9542af'>
+<meta name="p:domain_verify" content="4f59680c9dc23afb7c8b10b4825ca8ed"/>
 <link rel="stylesheet" href="{root}style.css">
 {analytics}</head>
 <body>
