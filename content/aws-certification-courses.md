@@ -54,11 +54,11 @@ Pluralsight (which absorbed A Cloud Guru into its library in 2021) offers video-
 
 ## Coursera — good if you already want the subscription for other reasons
 
-AWS-related content on Coursera includes specializations and courses that surface under AWS certification searches, at prices anchored to **Coursera Plus** (roughly $59/month or $399/year, with frequent discounts to well below list — see our [full Coursera Plus review](../coursera-plus-review/index.html) for the real numbers and break-even math).
+AWS-related content on Coursera includes specializations and courses that surface under AWS certification searches, at prices anchored to **Coursera Plus** (roughly $59/month or $399/year, with frequent discounts to well below list — see our [full Coursera Plus review](../coursera-plus-review/) for the real numbers and break-even math).
 
 **The catch that matters most here:** Coursera Plus does not automatically include every Professional Certificate or every specialization on the platform — some premium content is sold separately even for Plus subscribers. Before you subscribe (or extend a subscription) specifically for AWS cert prep, **open the exact course you want and confirm the "included with Plus" badge is present.** If it isn't, you may be paying for a broad subscription to access content billed separately anyway.
 
-**What's genuinely good:** if you're already using Coursera Plus for other courses (see our [Coursera Plus review](../coursera-plus-review/index.html)), adding AWS content to an existing subscription can be effectively free. Starting a subscription *only* for AWS prep is a much harder case to justify against the cheaper, more exam-focused alternatives below.
+**What's genuinely good:** if you're already using Coursera Plus for other courses (see our [Coursera Plus review](../coursera-plus-review/)), adding AWS content to an existing subscription can be effectively free. Starting a subscription *only* for AWS prep is a much harder case to justify against the cheaper, more exam-focused alternatives below.
 
 ## Udemy (Stephane Maarek) — the budget favorite for a reason
 

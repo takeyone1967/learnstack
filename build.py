@@ -28,12 +28,13 @@ PAGE = """<!doctype html>
 <meta name="description" content="{description}">
 <meta name='impact-site-verification' value='9459d185-2e61-43bf-96f3-c7cd7f9542af'>
 <meta name="p:domain_verify" content="4f59680c9dc23afb7c8b10b4825ca8ed"/>
+<link rel="canonical" href="{canonical}">
 <link rel="stylesheet" href="{root}style.css">
 {analytics}</head>
 <body>
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="{root}index.html">{site_name}</a>
+    <a class="brand" href="{root}">{site_name}</a>
     <span class="tagline">{tagline}</span>
   </div>
 </header>
@@ -104,13 +105,13 @@ def build():
             description=meta.get("description", ""),
             body=f'<article class="post">{render_markdown(body)}</article>',
             root="../", site_name=SITE_NAME, tagline=SITE_TAGLINE, analytics=ANALYTICS,
-            year=date.today().year,
+            year=date.today().year, canonical=f"{SITE_URL}/{slug}/",
         ), encoding="utf-8")
         articles.append({**meta, "slug": slug, "title": title})
 
     articles.sort(key=lambda a: a.get("date", ""), reverse=True)
     cards = "\n".join(
-        f'<a class="card" href="{a["slug"]}/index.html">'
+        f'<a class="card" href="{a["slug"]}/">'
         f'<h2>{a["title"]}</h2>'
         f'<p>{a.get("description", "")}</p>'
         f'<span class="date">{a.get("date", "")}</span></a>'
@@ -128,7 +129,7 @@ def build():
                     "language apps, and online course platforms.",
         body=f'{intro}<section class="cards">{cards}</section>',
         root="", site_name=SITE_NAME, tagline=SITE_TAGLINE, analytics=ANALYTICS,
-        year=date.today().year,
+        year=date.today().year, canonical=f"{SITE_URL}/",
     ), encoding="utf-8")
     urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{a['slug']}/" for a in articles]
     entries = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)

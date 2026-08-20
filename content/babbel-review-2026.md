@@ -35,7 +35,7 @@ Around the core lessons you get a spaced-repetition review manager that resurfac
 
 The headline addition of the last year is **Babbel Speak**, an AI conversation trainer that launched in open beta in September 2025. It gives you roughly 28 guided real-life scenarios per language — ordering at a restaurant, checking in at the airport, small talk — where you speak your side of a turn-taking conversation with an AI partner. You get hints, translations, a slow-down option, and feedback on your vocabulary afterward.
 
-Two honest observations. First, it works, and it removes the single biggest barrier for shy learners: nobody is judging you. Second, it is *guided* practice — you're completing scenarios, not having a free conversation. If you go off script, the rails are visible. For genuinely open-ended AI conversation, Duolingo Max's Video Call is currently ahead (we compare them in our [AI language app comparison](../best-ai-language-learning-apps-2026/index.html)).
+Two honest observations. First, it works, and it removes the single biggest barrier for shy learners: nobody is judging you. Second, it is *guided* practice — you're completing scenarios, not having a free conversation. If you go off script, the rails are visible. For genuinely open-ended AI conversation, Duolingo Max's Video Call is currently ahead (we compare them in our [AI language app comparison](../best-ai-language-learning-apps-2026/)).
 
 ### One thing that's gone: Babbel Live
 
@@ -75,7 +75,7 @@ At a discounted annual rate (~$60–70/year), Babbel is cheaper than a single ho
 
 **2. The 14 languages are not created equal.** Spanish, German, French, Italian, and English get the full treatment: deep courses, podcasts, games, extras. But several catalog languages — **Turkish, Indonesian, Danish, and Norwegian are the ones reviewers flag most** — are far thinner: solid beginner material, then scattered extras where the intermediate content should be. If you're buying for one of the smaller languages, use the free first lessons to check how far your course actually goes *before* paying, and be aware the Lifetime plan's "all 14 languages" is worth less than it sounds.
 
-**3. No Japanese, Korean, Mandarin, or Arabic. At all.** This is the biggest catalog gap in 2026, and it disqualifies Babbel for a huge share of prospective learners. If that's your target language, stop reading and look at [Busuu or Pimsleur instead](../best-ai-language-learning-apps-2026/index.html).
+**3. No Japanese, Korean, Mandarin, or Arabic. At all.** This is the biggest catalog gap in 2026, and it disqualifies Babbel for a huge share of prospective learners. If that's your target language, stop reading and look at [Busuu or Pimsleur instead](../best-ai-language-learning-apps-2026/).
 
 **4. Watch the auto-renewal.** Babbel's product reviews are largely positive (Trustpilot sits around 4.3–4.5), but the negative ones cluster heavily around one theme: **silent auto-renewal**. Users report being charged for a new year with no reminder email, discovering the discounted first year renews at full price, and being refused refunds because the 20-day guarantee doesn't cover renewals. Some got courteous refunds anyway; others had to escalate. The fix is boring and effective: **set a calendar reminder a week before your renewal date**, and if you subscribed through the App Store, remember you must cancel there — not on Babbel's website.
 
@@ -112,7 +112,7 @@ No, and be suspicious of anything that claims otherwise. Realistic outcome with 
 For new purchases, yes — but you must contact support within 20 days, and it does not cover auto-renewals. Renewal disputes are where most billing complaints come from.
 
 **Babbel or Duolingo?**
-Different tools. Duolingo builds a daily habit and offers the better open-ended AI conversation (in its expensive Max tier); Babbel teaches more substance per minute for adults who'll show up without gamification. Our [full comparison of the five best AI language apps](../best-ai-language-learning-apps-2026/index.html) covers this head-to-head.
+Different tools. Duolingo builds a daily habit and offers the better open-ended AI conversation (in its expensive Max tier); Babbel teaches more substance per minute for adults who'll show up without gamification. Our [full comparison of the five best AI language apps](../best-ai-language-learning-apps-2026/) covers this head-to-head.
 
 ## Final verdict
 

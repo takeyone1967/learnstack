@@ -98,7 +98,7 @@ For comprehension of straightforward material, research generally finds audio an
 Start at 1.2–1.5x and step up weekly. Most experienced users settle between 1.8x and 2.5x. Every app advertises higher; comprehension, not the slider, is the limit.
 
 **Can these apps read foreign-language texts?**
-Yes — Speechify covers 60+ languages and the others handle the majors. Hearing correct pronunciation while following text is genuinely useful for language study; if that's your main goal, see our [comparison of AI language learning apps](../best-ai-language-learning-apps-2026/index.html), which attack the problem more directly.
+Yes — Speechify covers 60+ languages and the others handle the majors. Hearing correct pronunciation while following text is genuinely useful for language study; if that's your main goal, see our [comparison of AI language learning apps](../best-ai-language-learning-apps-2026/), which attack the problem more directly.
 
 **Are there hidden limits I should know about?**
 The three that bite people: Speechify's free tier hides the real voice quality behind the paywall; ElevenReader's free tier is 10 hours/month; NaturalReader meters premium-voice usage by characters per day. No "unlimited" claim in this category should be taken at face value — including future pricing, which has changed at three of these companies within two years.

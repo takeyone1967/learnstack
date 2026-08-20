@@ -20,7 +20,7 @@ They aren't. Duolingo is a *habit machine* that teaches some language along the 
 - **You've quit language apps before, or you're starting from absolute zero motivation:** Duolingo. The free tier is genuinely usable, and no app on earth is better at making you come back tomorrow.
 - **You're a motivated adult who wants to actually understand the language — grammar included:** Babbel. It teaches more substance per minute, by a wide margin.
 - **You want spontaneous AI conversation practice:** Duolingo Max — its Video Call feature is ahead of Babbel Speak, but it costs ~$168/year.
-- **You're learning Japanese, Korean, Mandarin, or Arabic:** neither is a great choice — Babbel doesn't offer them at all, and Duolingo's Asian-language courses are its weakest. See our [full five-app comparison](../best-ai-language-learning-apps-2026/index.html) for better options.
+- **You're learning Japanese, Korean, Mandarin, or Arabic:** neither is a great choice — Babbel doesn't offer them at all, and Duolingo's Asian-language courses are its weakest. See our [full five-app comparison](../best-ai-language-learning-apps-2026/) for better options.
 
 Now the details.
 
@@ -92,11 +92,11 @@ If your target language is one of Babbel's thin offerings, Duolingo's breadth do
 - You're a motivated adult learner who'll show up without being gamified into it
 - You want to *understand* the grammar, not just pattern-match tiles
 - You're learning Spanish, French, German, or Italian (Babbel's strongest courses)
-- You want the best per-dollar deal in the category (Lifetime, bought on sale) — our [full Babbel review](../babbel-review-2026/index.html) covers how to buy it smart
+- You want the best per-dollar deal in the category (Lifetime, bought on sale) — our [full Babbel review](../babbel-review-2026/) covers how to buy it smart
 
 **Use both if:** you're serious about a major European language and want Duolingo's daily-habit loop plus Babbel's actual teaching. Free Duolingo + discounted Babbel annual is a legitimately strong (and cheap) stack.
 
-**Use neither if:** you're already intermediate (B2+) — both apps plateau below you — or your target is Japanese, Korean, or Mandarin, where [Busuu and Pimsleur](../best-ai-language-learning-apps-2026/index.html) hold up better.
+**Use neither if:** you're already intermediate (B2+) — both apps plateau below you — or your target is Japanese, Korean, or Mandarin, where [Busuu and Pimsleur](../best-ai-language-learning-apps-2026/) hold up better.
 
 ## FAQ
 

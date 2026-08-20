@@ -19,7 +19,7 @@ This comparison covers where each platform genuinely wins, what they cost, and t
 
 - **You want a credential for a resume or career change** (Google Certificates, university Specializations) → **Coursera**
 - **You want hands-on practice — labs, sandboxes, real cloud environments** → **Pluralsight**
-- **You're prepping for a cloud certification exam** (AWS, Azure, GCP) → **Pluralsight**, or see our [dedicated AWS certification course comparison](../best-aws-certification-courses-2026/index.html) for exam-specific options
+- **You're prepping for a cloud certification exam** (AWS, Azure, GCP) → **Pluralsight**, or see our [dedicated AWS certification course comparison](../best-aws-certification-courses-2026/) for exam-specific options
 - **You want broad, structured courses from named universities** → **Coursera**
 
 ## Head-to-head at a glance
@@ -41,7 +41,7 @@ This comparison covers where each platform genuinely wins, what they cost, and t
 
 **Breadth beyond tech.** If your career path touches business, data analysis, or general professional skills alongside technical ones, Coursera's catalog covers all of it under one subscription. Pluralsight is narrowly technical by design.
 
-See our [full Coursera Plus review](../coursera-plus-review/index.html) for the real subscription economics — the honest version is that it's worth it primarily for learners completing 2+ certificates or Specializations a year, not casual browsers.
+See our [full Coursera Plus review](../coursera-plus-review/) for the real subscription economics — the honest version is that it's worth it primarily for learners completing 2+ certificates or Specializations a year, not casual browsers.
 
 ## Where Pluralsight wins
 
@@ -68,7 +68,7 @@ Neither is meaningfully "cheap" as a full-year commitment. Both are considerably
 
 ## Can you use both?
 
-Yes, and for a specific type of learner it makes sense: use **Pluralsight** for the technical skill-building and lab practice (e.g., prepping for a cloud certification — see our [AWS certification course comparison](../best-aws-certification-courses-2026/index.html)), then use **Coursera** for a credential that packages the outcome into something a resume can show. Running both simultaneously is a real cost commitment, so this combination makes most sense during an active career transition, not as an ongoing dual subscription.
+Yes, and for a specific type of learner it makes sense: use **Pluralsight** for the technical skill-building and lab practice (e.g., prepping for a cloud certification — see our [AWS certification course comparison](../best-aws-certification-courses-2026/)), then use **Coursera** for a credential that packages the outcome into something a resume can show. Running both simultaneously is a real cost commitment, so this combination makes most sense during an active career transition, not as an ongoing dual subscription.
 
 ## FAQ
 
@@ -82,7 +82,7 @@ Not really — it's built for developers, IT professionals, and technical career
 Some courses include labs or guided projects (particularly in data science and some cloud specializations), but it's inconsistent across the catalog and generally lighter than Pluralsight's dedicated lab/sandbox infrastructure.
 
 **Which is better for AWS/Azure/GCP certification prep specifically?**
-Pluralsight generally, for the hands-on lab access — though for a single specific certification, dedicated exam-prep courses (often cheaper, on platforms like Udemy) can be more cost-efficient than either subscription. Our [AWS certification course comparison](../best-aws-certification-courses-2026/index.html) breaks this down further.
+Pluralsight generally, for the hands-on lab access — though for a single specific certification, dedicated exam-prep courses (often cheaper, on platforms like Udemy) can be more cost-efficient than either subscription. Our [AWS certification course comparison](../best-aws-certification-courses-2026/) breaks this down further.
 
 ## Final verdict
 
