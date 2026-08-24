@@ -58,6 +58,10 @@ PINS = [
     ("coursera-certs-01", "Best Coursera\nCertificates for\nCareer Changers", "Google vs IBM vs Meta vs Microsoft — honest completion times.", "coursera-career-certificates-2026"),
     ("coursera-certs-02", "Do Coursera\nCertificates Actually\nGet You Hired?", "Coursera says 75%. Independent research found something different.", "coursera-career-certificates-2026"),
     ("coursera-certs-03", "Google Certificate\nReview: Real Timeline\n& Cost", "3-6 months advertised. Here's what it actually takes.", "coursera-career-certificates-2026"),
+
+    ("coursera-edx-01", "Coursera vs edX:\nWhich Is Cheaper\nfor You?", "One bills monthly until you finish. The other you buy once.", "coursera-vs-edx"),
+    ("coursera-edx-02", "edX Isn't the\nHarvard Non-Profit\nAnymore", "Sold to 2U in 2021, restructured in 2024 — what actually changed.", "coursera-vs-edx"),
+    ("coursera-edx-03", "Take Coursera &\nedX Courses Free\n(Audit Explained)", "Both platforms let you audit. Neither will tell you about it.", "coursera-vs-edx"),
 ]
 
 
