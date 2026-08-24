@@ -102,6 +102,8 @@ Different catalogs, not just different prices. LinkedIn Learning is broader-but-
 
 Coursera Plus in 2026 is a genuinely good product wrapped in a subscription model that punishes the unwary. The catalog is unmatched, the certificate economics strongly favor multi-course learners, and the AI study tools have become quietly useful. But it's only worth it at two-plus credentials a year, ideally bought at the recurring 40–50% discount — and only with a renewal reminder set the day you subscribe. Do the thirty-second math above honestly, and you'll know which side of the line you're on.
 
+For a full breakdown of every Coursera plan and pricing model — including a common misconception about 2026 pricing — see our [complete Coursera pricing guide](../coursera-pricing-2026/index.html). If you're weighing a specific career-change certificate, our [guide to Coursera's Professional Certificates](../coursera-career-certificates-2026/index.html) covers realistic completion times and what independent research says about outcomes.
+
 ---
 
 *Prices checked August 2026 and change frequently — confirm on the official site before buying. This article contains affiliate links; see the disclosure at the top.*
