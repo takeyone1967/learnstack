@@ -84,7 +84,7 @@ Worth stating plainly, because both platforms bury it: **you can take a large am
 
 If what you want is the knowledge and not the credential, start with audit on both and only pay when you've decided a specific certificate is worth showing someone. Neither platform will push you toward this option, so you have to choose it deliberately.
 
-Coursera also offers **financial aid** on many individual courses via a short application — see our [pricing guide](../coursera-pricing-2026/index.html) for how that process actually works.
+Coursera also offers **financial aid** on many individual courses via a short application, and a 7-day Coursera Plus trial that can produce a real certificate if you use it deliberately. We break down all three free routes — and the audit limitation that catches most people out — in [what you actually get from Coursera for free](../coursera-free-courses/index.html).
 
 ## FAQ
 
