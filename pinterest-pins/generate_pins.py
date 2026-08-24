@@ -62,6 +62,10 @@ PINS = [
     ("coursera-edx-01", "Coursera vs edX:\nWhich Is Cheaper\nfor You?", "One bills monthly until you finish. The other you buy once.", "coursera-vs-edx"),
     ("coursera-edx-02", "edX Isn't the\nHarvard Non-Profit\nAnymore", "Sold to 2U in 2021, restructured in 2024 — what actually changed.", "coursera-vs-edx"),
     ("coursera-edx-03", "Take Coursera &\nedX Courses Free\n(Audit Explained)", "Both platforms let you audit. Neither will tell you about it.", "coursera-vs-edx"),
+
+    ("coursera-free-01", "Coursera Free\nCourses: What You\nActually Get", "Three free routes explained — and which one gets you a certificate.", "coursera-free-courses"),
+    ("coursera-free-02", "You Can't Audit\nGoogle Certificates\n(Here's Why)", "The audit limitation most Coursera guides leave out completely.", "coursera-free-courses"),
+    ("coursera-free-03", "Get a Coursera\nCertificate Free\nin 7 Days", "Use the trial as a sprint, not a sample. Here's the plan.", "coursera-free-courses"),
 ]
 
 
