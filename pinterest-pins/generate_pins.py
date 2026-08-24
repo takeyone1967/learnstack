@@ -42,6 +42,22 @@ PINS = [
     ("surfer-01", "Surfer SEO Review:\nWorth It for\nBloggers?", "The vendor's own data on whether Content Score actually predicts rankings.", "surfer-seo-review"),
     ("surfer-02", "Surfer SEO Pricing\n& Alternatives\n(2026)", "Is there a cheaper option? We compared it to NeuronWriter.", "surfer-seo-review"),
     ("surfer-03", "SEO Content Score:\nDoes It Really\nWork?", "We looked at Surfer's own correlation study — here's what it says.", "surfer-seo-review"),
+
+    ("aws-cert-01", "Best Online Courses\nfor AWS\nCertification 2026", "Pluralsight vs AWS Skill Builder vs Udemy — the cheapest real path compared.", "best-aws-certification-courses-2026"),
+    ("aws-cert-02", "AWS Certification:\nThe Real Cost\n(Not the Marketing Price)", "Course + exam + retake buffer — what you'll actually pay.", "best-aws-certification-courses-2026"),
+    ("aws-cert-03", "Cheapest Way to Get\nAWS Solutions\nArchitect Certified", "The $12 Udemy course thousands of people actually pass with.", "best-aws-certification-courses-2026"),
+
+    ("vs-pluralsight-01", "Coursera vs\nPluralsight for\nTech Careers", "Credentials or hands-on labs? Match the platform to what you're proving.", "coursera-vs-pluralsight"),
+    ("vs-pluralsight-02", "Which Skill\nPlatform Actually\nGets You Hired?", "We compared certificate recognition vs real skill-building.", "coursera-vs-pluralsight"),
+    ("vs-pluralsight-03", "Coursera vs\nPluralsight: Which\nfor Cloud Certs?", "Hands-on labs vs university-style courses for AWS/Azure/GCP prep.", "coursera-vs-pluralsight"),
+
+    ("coursera-price-01", "Coursera Pricing\n2026: Every Plan\nExplained", "Plus, Specializations, certificates — what each actually costs.", "coursera-pricing-2026"),
+    ("coursera-price-02", "Did Coursera Prices\nGo Up in 2026?\n(The Real Answer)", "Most articles get this wrong. Here's what actually changed.", "coursera-pricing-2026"),
+    ("coursera-price-03", "Coursera Financial\nAid: How It\nActually Works", "The application process explained honestly, no fake approval stats.", "coursera-pricing-2026"),
+
+    ("coursera-certs-01", "Best Coursera\nCertificates for\nCareer Changers", "Google vs IBM vs Meta vs Microsoft — honest completion times.", "coursera-career-certificates-2026"),
+    ("coursera-certs-02", "Do Coursera\nCertificates Actually\nGet You Hired?", "Coursera says 75%. Independent research found something different.", "coursera-career-certificates-2026"),
+    ("coursera-certs-03", "Google Certificate\nReview: Real Timeline\n& Cost", "3-6 months advertised. Here's what it actually takes.", "coursera-career-certificates-2026"),
 ]
 
 
