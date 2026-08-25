@@ -109,25 +109,67 @@ cairosvgのバージョン差で**既存PNGがバイナリだけ変わる**（SV
 - 説明文 = `PINS` の subtext を**そのまま**（補足を足さない）
 - ボード = 言語学習系は `AI Language Learning Apps`、それ以外は `AI Tools for Learning & Productivity`
 
-### GA4 / Search Console（8/22時点）
+### 🔴 アクセス解析（8/25実測・過去28日 7/28〜8/24）
 
-- Organic Search 流入はまだ0件（新規ドメインの助走期間、想定内）
-- Search Console 表示回数262件・平均掲載順位66.3位。Coursera Plus記事が実クエリで表示され始めた
-- 重複コンテンツ警告は canonical タグ追加で 8/23 修正済み、再検証待ち
+**GA4 — 総セッション35**
+
+| チャネル | セッション | 割合 |
+|---|---|---|
+| Direct | 31 | 88.6%（ほぼ自分の確認アクセス） |
+| Organic Social（Pinterest） | **2** | 5.7% |
+| Referral | 2 | 5.7% |
+| Organic Search | **0** | — |
+
+**Search Console — 表示313 / クリック0 / 平均掲載順位66位**
+
+上位クエリ（表示回数）: is coursera plus worth it 68 / coursera plus review 55 /
+coursera plus worth it 26 / coursera price 2026 14 / coursera price increase 13
+
+上位ページ: `/coursera-plus-review/` **203（全体の65%）** /
+`/best-text-to-speech-apps-for-studying/` 57 / `/surfer-seo-review/` 13
+
+**ここから確定した3つの事実**
+
+1. **Pinterestは主戦力にならない**。27枚投稿して28日で2セッション。
+   未投稿分を全部出しても+1程度。500UVをPinterestで作る計画は成立しない。
+   → 投稿は続けるが「補助」に格下げ。期待値を下げること。
+2. **賭けの方向は当たっている。順位だけが足りない**。表示の65%がCoursera Plus記事に集中し、
+   クエリは全部「worth it / review」＝購買意図が高い語。66位（7ページ目相当）だからクリック0。
+   表示回数は増え続けている（8/22の262 → 8/25の313）ので、10位台に入れば動く。
+3. **新記事の量産より、当たっている記事を上位に押し上げるほうが効率的な局面**。
+
+**8/25に実施した対策**（コミット f6edaf5）:
+
+- 内部リンク23箇所を `../slug/index.html` → `../slug/` に統一。
+  `/coursera-plus-review/`(203) と `/coursera-plus-review/index.html`(17) に
+  評価が割れていた問題を解消
+- Coursera Plus記事をクラスターのハブ化（発リンク2本→6本）。
+  FAQに vs-pluralsight / vs-edx / vs-linkedin-learning の実リンクと無料ルートQ&Aを追加し、
+  末尾を Read next リストに再構成
+- 孤立していたTTS記事（表示2位なのに被リンク0）へ言語学習記事から導線を追加
+
+**🔴 内部リンクは必ず `../slug/` 形式で書くこと**（`index.html` を付けない）。付けると評価が割れる。
 
 ## 次にやること
 
 **最優先はトラフィックを作ること**。ASP申請は月間500UVに届いてから再開する（上記の判断を参照）。
 
-1. 🔴 **Pinterest 未投稿9枚を投稿**（`coursera-edx` / `coursera-free` / `coursera-li`。記事は全部公開済み）
-   → **最優先。記事だけ増えて流入経路が止まっている状態**。
-   ただし上記の不具合があるので **8/26以降に、1回3枚まで**に分けて投稿すること
-2. 8/28以降に Pinterest `coursera-certs` 3枚を投稿
-3. **記事14本目以降を書く**（週2〜3本ペース）
-4. **Coursera の審査結果を待つ**（承認されたらリンクを各Coursera記事に差し込む）
-5. Speechify の審査結果をフォロー（8/25時点で直近14日の新着メールなし）
-6. 9月中旬目安: GA4/Search Console データ再分析。**月間500UVに届いたら**下の候補表で申請を再開
-7. Pinterestのフォロワーを増やす（500人が多くのASPの代替基準になる）
+**8/25の実測を受けて優先順位を組み替えた。狙いは「新記事を増やす」から「Coursera Plus記事を
+66位から10位台に上げる」へ。** 表示の65%がそこに集中していて、クリック0の理由は順位だけだから。
+
+1. 🔴 **Coursera Plus記事の順位対策**（最優先。ここが動けば全部動く）
+   - 8/25に内部リンクのハブ化は完了。次は**本文の強化**
+     （実クエリ「is coursera plus worth it」に正面から答えるセクション、比較表の拡充、
+     FAQの追加など。順位改善の反応は2〜4週間見る必要がある）
+   - Search Consoleで `/coursera-plus-review/` の順位推移を毎週見る
+2. **Pinterest 未投稿9枚を投稿**（`coursera-edx` / `coursera-free` / `coursera-li`）
+   → ただし**期待値は低い**（27枚で2セッション）。手が空いたときにやる程度でよい。
+   8/26以降、1回3枚まで
+3. 8/28以降に Pinterest `coursera-certs` 3枚を投稿
+4. **記事14本目以降**（週2〜3本 → **ペースを落としてよい**。量より既存記事の順位）
+5. **Coursera の審査結果を待つ**（承認されたらリンクを各Coursera記事に差し込む）
+6. Speechify の審査結果をフォロー（8/25時点で直近14日の新着メールなし）
+7. 9月中旬目安: GA4/Search Console 再分析。**月間500UVに届いたら**下の候補表で申請を再開
 
 ### 記事14本目以降のネタ候補
 
