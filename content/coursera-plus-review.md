@@ -15,6 +15,21 @@ Coursera Plus is a simple pitch: one subscription, unlimited access to most of t
 
 That question has a concrete answer. This review gives you the real 2026 numbers, what's genuinely included (and the marquee content that isn't), the AI features Coursera added over the last year, the billing reputation problem you should know about before entering a card number — and a break-even rule you can apply in thirty seconds.
 
+## The short answer
+
+**Coursera Plus is worth it if you will genuinely complete two or more Specializations or Professional Certificates in the next twelve months. Below that, buy the single thing you want instead.**
+
+That's the whole decision. Everything else is detail:
+
+| Your situation | Verdict |
+|---|---|
+| Career-switcher stacking 2–3 certificates this year | **Worth it** — especially bought on a 40–50% sale |
+| One specific certificate, then done | **Not worth it** — buy it directly, after checking it's even included |
+| You want the knowledge, not the paperwork | **Not worth it** — [audit for free](../coursera-free-courses/) |
+| You're hoping a subscription will make you study | **Not worth it** — it won't, and the renewal arrives regardless |
+
+Two things to do before you pay, in this order: **check the "Coursera Plus" badge on the exact certificate you want** (inclusion is not universal), and **wait for a sale** — the $399 list price drops to roughly $199–240 several times a year. Then set a renewal reminder the day you subscribe. The billing complaints below explain why that last one isn't optional.
+
 ## What Coursera Plus is
 
 Coursera hosts courses from ~300 universities (Yale, Michigan, Imperial College) and companies (Google, IBM, Meta). Normally you pay per item: single courses run **$49–99**, and Specializations (multi-course series) bill at **$49–79 per month** until you finish.
@@ -38,6 +53,15 @@ The other numbers you need:
 - **Auditing is still free.** You can watch the video content of many individual courses at no cost — no graded work, no certificate. If you just want the knowledge, try auditing before paying anyone anything.
 
 For context against the other big subscriptions in 2026: LinkedIn Learning runs ~$239.88/year and Pluralsight ~$299/year (Standard). At list, Plus is the most expensive of the three; caught on a 50% sale, it's the cheapest per course of anything in its class.
+
+### Did Coursera Plus get more expensive in 2026?
+
+Short answer: **no, and we could not verify a consumer-facing price increase at all.** The core Plus price has sat at roughly $59/month or $399/year for years. If you searched for a price rise, you probably hit one of these instead:
+
+- **A promotional rate expiring.** Year one bought at $199 renews at $399 unless you cancel. This is the single most common reason people believe prices went up — and it's also the top billing complaint below.
+- **Being shown a different region's default.** Coursera rolled out **region-aligned pricing in September 2025**, cutting prices by up to 60% across 100+ countries. In India, for example, annual Plus runs a fraction of the US price. The change moved prices *down*, not up — but only in the markets it covered.
+
+One structural change worth knowing, even though it doesn't touch your bill: Coursera began charging content partners a platform fee (reportedly ~15%) in 2025–26, and at least one university has reportedly pulled content over it. **The catalog you're subscribing to isn't fixed** — relevant if you're paying Plus specifically for one institution's courses. Our [full pricing guide](../coursera-pricing-2026/) covers every plan and this change in detail.
 
 ## What's genuinely good
 
@@ -94,6 +118,15 @@ Yes — 7 days on the monthly plan for new subscribers. A serious trial strategy
 
 **Can I get a refund?**
 Annual plan: within 14 days of purchase. Monthly payments: no refunds. Auto-renewals: effectively no — which is why the calendar reminder isn't optional advice.
+
+**Is Coursera Plus worth it for one certificate?**
+No. A single Professional Certificate bought directly will almost always cost less than a year of Plus, and Specializations bill monthly only until you finish. Plus starts winning at two credentials a year, and wins clearly at three.
+
+**Did Coursera raise prices in 2026?**
+We couldn't verify any consumer price increase — the list price has been stable for years. If your bill went up, the likeliest cause is a promotional rate renewing at full price. See the section above.
+
+**Is Coursera Plus worth it if I already have a degree?**
+It depends on what you're proving, not what you already hold. Plus is strongest for stacking industry certificates that signal a *specific current* skill — a degree from five years ago doesn't do that. If you only need one skill topped up, buy the single course.
 
 **Plus, or LinkedIn Learning / Pluralsight / edX?**
 Different catalogs, not just different prices. [LinkedIn Learning](../coursera-vs-linkedin-learning/) is broader-but-lighter professional content aimed at your existing profile; [Pluralsight](../coursera-vs-pluralsight/) is deeper pure-tech skills with hands-on labs; [edX](../coursera-vs-edx/) sells courses outright instead of by subscription, which is cheaper if you study irregularly. Coursera is the only one of the four with both university courses and industry certificates. Choose by the credential you want, not the sticker price — we've compared each pairing in detail.
