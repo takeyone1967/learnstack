@@ -66,6 +66,10 @@ PINS = [
     ("coursera-free-01", "Coursera Free\nCourses: What You\nActually Get", "Three free routes explained — and which one gets you a certificate.", "coursera-free-courses"),
     ("coursera-free-02", "You Can't Audit\nGoogle Certificates\n(Here's Why)", "The audit limitation most Coursera guides leave out completely.", "coursera-free-courses"),
     ("coursera-free-03", "Get a Coursera\nCertificate Free\nin 7 Days", "Use the trial as a sprint, not a sample. Here's the plan.", "coursera-free-courses"),
+
+    ("coursera-li-01", "Coursera vs\nLinkedIn Learning:\nWhich Helps More?", "One credential convinces strangers. The other convinces your network.", "coursera-vs-linkedin-learning"),
+    ("coursera-li-02", "Do LinkedIn Learning\nCertificates Actually\nCount?", "Honest answer: it depends entirely on who is reading them.", "coursera-vs-linkedin-learning"),
+    ("coursera-li-03", "You Might Already\nHave LinkedIn\nLearning Free", "It comes with LinkedIn Premium. Check before you pay twice.", "coursera-vs-linkedin-learning"),
 ]
 
 
