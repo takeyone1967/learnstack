@@ -157,11 +157,14 @@ coursera plus worth it 26 / coursera price 2026 14 / coursera price increase 13
 **8/25の実測を受けて優先順位を組み替えた。狙いは「新記事を増やす」から「Coursera Plus記事を
 66位から10位台に上げる」へ。** 表示の65%がそこに集中していて、クリック0の理由は順位だけだから。
 
-1. 🔴 **Coursera Plus記事の順位対策**（最優先。ここが動けば全部動く）
-   - 8/25に内部リンクのハブ化は完了。次は**本文の強化**
-     （実クエリ「is coursera plus worth it」に正面から答えるセクション、比較表の拡充、
-     FAQの追加など。順位改善の反応は2〜4週間見る必要がある）
-   - Search Consoleで `/coursera-plus-review/` の順位推移を毎週見る
+1. 🔴 **Coursera Plus記事の順位を追う**（最優先。ここが動けば全部動く）
+   - 8/25に**内部リンクのハブ化と本文強化は完了**（1692語→2221語、コミット c1438c6）。
+     冒頭に「The short answer」で即答、「Did Coursera Plus get more expensive in 2026?」を新設、
+     FAQ4問追加。実クエリ is coursera plus worth it / coursera price increase に対応済み
+   - **やることは待つことと観測**。順位改善の反応は2〜4週間かかる。
+     Search Consoleで `/coursera-plus-review/` の掲載順位を**毎週記録**し、
+     66位からどう動くか見る。9月中旬に効果を判定する
+   - 動かなければ次の手は被リンク獲得（外部サイトからのリンク）。ただし難易度は上がる
 2. **Pinterest 未投稿9枚を投稿**（`coursera-edx` / `coursera-free` / `coursera-li`）
    → ただし**期待値は低い**（27枚で2セッション）。手が空いたときにやる程度でよい。
    8/26以降、1回3枚まで
