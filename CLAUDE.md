@@ -23,11 +23,14 @@
 
 ## 現在の状態（2026-08-25 時点）
 
-### 記事 12本
+### 記事 13本
 
-`content/` に11本（公開済み）。残り1本は上記のとおり 8/28 に自動公開予約中。
+`content/` に12本（公開済み）。残り1本は上記のとおり 8/28 に自動公開予約中。
 
-8/25に2本追加した。どちらもCourseraクラスターの強化。
+8/25に3本追加した。いずれもCourseraクラスターの強化だが、比較相手のセグメントを
+意図的に分散させている（Pluralsight=技術 / edX=大学 / LinkedIn Learning=社会人・法人）。
+重複コンテンツ警告が出た経緯があるので、Coursera単体の切り口を増やすより比較軸を
+散らすほうが安全。
 
 - **Coursera vs edX in 2026**（`coursera-vs-edx`）
   課金モデルの違い（Coursera=完了まで月額課金 / edX=買い切り）を軸に、
@@ -38,6 +41,13 @@
   無料の3ルート（audit / 7日間トライアル / 財政援助）を整理。差別化点は
   **auditがSpecializationとProfessional Certificateでは使えない**という制約を正面から扱ったこと
   （Google証明書など人気プログラムは対象外）。"free"は検索ボリュームが大きくトラフィック獲得向き。
+- **Coursera vs LinkedIn Learning**（`coursera-vs-linkedin-learning`）
+  「証明の宛先が違う」が軸。Coursera=見知らぬ採用担当に見せるcredential /
+  LinkedIn Learning=プロフィール上のシグナル（ワンクリック掲載）。
+  LinkedIn Learningの証明書は完了ベースで採点がなく差別化力が弱いことも正直に書いた。
+  **LinkedIn Learningの個人向け価格は情報が錯綜している**（単体$19.99-29.99/月という報告と、
+  単体プラン廃止・Premium統合という報告が併存。公式ページは価格非公開）。断定を避け、
+  両論と「公式サインアップフローで確認せよ」という形にしてある。
 
 ### ASP申請状況
 
@@ -71,11 +81,12 @@ LearnStackの現状はOrganic流入0件・Pinterestフォロワー0人で、**�
 
 ### Pinterest（アカウント: LearnStack / yonedatakeshi0195）
 
-- 生成済み36枚（`pinterest-pins/output/`）。文言は `pinterest-pins/generate_pins.py` の `PINS` が原本
+- 生成済み39枚（`pinterest-pins/output/`）。文言は `pinterest-pins/generate_pins.py` の `PINS` が原本
 - **投稿済み27枚**
-- **未投稿9枚**:
+- **未投稿12枚**:
   - `coursera-edx-01/02/03` → 記事は公開済みなので**いつでも投稿できる**
   - `coursera-free-01/02/03` → 記事は公開済みなので**いつでも投稿できる**
+  - `coursera-li-01/02/03` → 記事は公開済みなので**いつでも投稿できる**
   - `coursera-certs-01/02/03` → 予約記事が公開される **8/28以降**に投稿する
 - リンク先は `https://yameyaku.com/<slug>/`
 
@@ -108,24 +119,27 @@ cairosvgのバージョン差で**既存PNGがバイナリだけ変わる**（SV
 
 **最優先はトラフィックを作ること**。ASP申請は月間500UVに届いてから再開する（上記の判断を参照）。
 
-1. **Pinterest 未投稿6枚を投稿**（`coursera-edx` と `coursera-free`。記事は両方公開済み）
-   → ただし上記の不具合のため**8/26以降に、数枚ずつ分けて**投稿すること
-2. **記事13本目以降を書く**（週2〜3本ペース。Courseraクラスターを厚くするのが有効）
-3. 8/28以降に Pinterest `coursera-certs` 3枚を投稿
+1. 🔴 **Pinterest 未投稿9枚を投稿**（`coursera-edx` / `coursera-free` / `coursera-li`。記事は全部公開済み）
+   → **最優先。記事だけ増えて流入経路が止まっている状態**。
+   ただし上記の不具合があるので **8/26以降に、1回3枚まで**に分けて投稿すること
+2. 8/28以降に Pinterest `coursera-certs` 3枚を投稿
+3. **記事14本目以降を書く**（週2〜3本ペース）
 4. **Coursera の審査結果を待つ**（承認されたらリンクを各Coursera記事に差し込む）
-5. Speechify の審査結果をフォロー
+5. Speechify の審査結果をフォロー（8/25時点で直近14日の新着メールなし）
 6. 9月中旬目安: GA4/Search Console データ再分析。**月間500UVに届いたら**下の候補表で申請を再開
 7. Pinterestのフォロワーを増やす（500人が多くのASPの代替基準になる）
 
-### 記事13本目以降のネタ候補
+### 記事14本目以降のネタ候補
 
-Courseraクラスターがトラクションを持ち始めているので、当面はここを厚くするのが効率的。
+Coursera比較シリーズは3本（Pluralsight / edX / LinkedIn Learning）でひと通り揃った。
+**次はCourseraから離れてクラスターを分散させるほうがよい**（重複警告の再発を避けるため、
+またCoursera承認が下りない場合のリスク分散として）。
 
-- Coursera vs Udacity（比較シリーズの継続。Udacityは高額なので価格の切り口が立つ）
+- **言語クラスターの再開が有力**（3記事で止まっている。Preply/italkiは単価が高くASP候補でもある）
+  - Duolingo単体レビュー / Preply・italkiのようなオンライン家庭教師型の比較
 - Google Career Certificates を単体で深掘り（8/28公開の記事から内部リンクを流せる）
-- Coursera vs LinkedIn Learning（法人・社会人層の検索需要）
-- Babbel以外の言語アプリ単体レビュー（言語クラスターは3記事で止まっている）
 - edX MicroMasters 深掘り（edX記事で触れた単位取得パスは掘り下げる価値がある）
+- Coursera vs Udacity（比較シリーズを続けるならこれ。ただし当面は分散を優先）
 
 ### Impact 追加ブランド候補（2026-08-25 調査・**申請は500UV到達後**）
 
