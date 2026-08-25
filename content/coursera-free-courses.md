@@ -41,7 +41,7 @@ This matters enormously, because those are exactly the things most people come t
 
 There's a partial workaround: Specializations are built from individual courses, and **some of those component courses can be audited individually**. So you can sometimes sample the first course of a certificate track for free to see if the teaching style suits you. What you can't do is work through the whole program free and skip the bill.
 
-If a career certificate is your actual goal, audit is a preview tool, not a path. See our [guide to Coursera's career certificates](../coursera-career-certificates-2026/index.html) for what those programs really cost in time and money.
+If a career certificate is your actual goal, audit is a preview tool, not a path. See our [guide to Coursera's career certificates](../coursera-career-certificates-2026/) for what those programs really cost in time and money.
 
 ## Route 2: The 7-day free trial — the most underused option
 
@@ -70,7 +70,7 @@ Coursera offers financial aid on many individual courses. If approved, you get t
 
 We won't quote an approval rate, because Coursera doesn't publish one and the numbers floating around other sites aren't sourced. What we can say is that the cost of applying is fifteen minutes of writing. If money is the barrier, that's a good trade.
 
-Full details on how the process works are in our [Coursera pricing guide](../coursera-pricing-2026/index.html).
+Full details on how the process works are in our [Coursera pricing guide](../coursera-pricing-2026/).
 
 ## So can you get a Coursera certificate for free?
 
@@ -85,7 +85,7 @@ What does *not* work is auditing. No amount of completing audit material produce
 
 edX handles free access differently, and in one respect more generously: its audit track commonly includes **most quizzes** alongside videos and readings, where Coursera locks graded work entirely. edX also sells courses outright rather than by subscription, which changes the math considerably if you study at an unpredictable pace.
 
-We compared both platforms properly in [Coursera vs edX](../coursera-vs-edx/index.html) — worth reading before you commit money to either.
+We compared both platforms properly in [Coursera vs edX](../coursera-vs-edx/) — worth reading before you commit money to either.
 
 ## FAQ
 
@@ -102,7 +102,7 @@ Not as a complete program. Some individual courses within certificate tracks can
 Yes. Payment details are required to activate the 7-day trial even though no charge occurs during it. If you'd rather not hand over card details at all, audit and financial aid are the card-free options.
 
 **Is Coursera Plus worth paying for after the trial?**
-Only at volume — roughly, once you're completing two or more Specializations or certificates a year. Our [full Coursera Plus review](../coursera-plus-review/index.html) has the break-even math.
+Only at volume — roughly, once you're completing two or more Specializations or certificates a year. Our [full Coursera Plus review](../coursera-plus-review/) has the break-even math.
 
 ## Final verdict
 

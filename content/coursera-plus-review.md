@@ -95,14 +95,24 @@ Yes — 7 days on the monthly plan for new subscribers. A serious trial strategy
 **Can I get a refund?**
 Annual plan: within 14 days of purchase. Monthly payments: no refunds. Auto-renewals: effectively no — which is why the calendar reminder isn't optional advice.
 
-**Plus, or LinkedIn Learning / Pluralsight?**
-Different catalogs, not just different prices. LinkedIn Learning is broader-but-lighter professional content; Pluralsight is deeper pure-tech skills; Coursera is the only one with university courses and industry certificates. Choose by the credential you want, not the sticker price.
+**Plus, or LinkedIn Learning / Pluralsight / edX?**
+Different catalogs, not just different prices. [LinkedIn Learning](../coursera-vs-linkedin-learning/) is broader-but-lighter professional content aimed at your existing profile; [Pluralsight](../coursera-vs-pluralsight/) is deeper pure-tech skills with hands-on labs; [edX](../coursera-vs-edx/) sells courses outright instead of by subscription, which is cheaper if you study irregularly. Coursera is the only one of the four with both university courses and industry certificates. Choose by the credential you want, not the sticker price — we've compared each pairing in detail.
+
+**Is there any way to use Coursera without paying?**
+Yes, three of them — free auditing, the 7-day trial, and financial aid — though the biggest one has a limitation that catches most people out. See [what you actually get from Coursera for free](../coursera-free-courses/).
 
 ## Final verdict
 
 Coursera Plus in 2026 is a genuinely good product wrapped in a subscription model that punishes the unwary. The catalog is unmatched, the certificate economics strongly favor multi-course learners, and the AI study tools have become quietly useful. But it's only worth it at two-plus credentials a year, ideally bought at the recurring 40–50% discount — and only with a renewal reminder set the day you subscribe. Do the thirty-second math above honestly, and you'll know which side of the line you're on.
 
-For a full breakdown of every Coursera plan and pricing model — including a common misconception about 2026 pricing — see our [complete Coursera pricing guide](../coursera-pricing-2026/index.html). If you're weighing a specific career-change certificate, our [guide to Coursera's Professional Certificates](../coursera-career-certificates-2026/index.html) covers realistic completion times and what independent research says about outcomes.
+### Read next
+
+- [Complete Coursera pricing guide](../coursera-pricing-2026/) — every plan and pricing model, including a common misconception about 2026 prices
+- [Coursera's Professional Certificates](../coursera-career-certificates-2026/) — realistic completion times and what independent research says about outcomes
+- [What you get from Coursera for free](../coursera-free-courses/) — audit, the 7-day trial, and financial aid, plus the limitation most guides skip
+- [Coursera vs edX](../coursera-vs-edx/) — subscription versus one-time purchase, and why your study pace decides the winner
+- [Coursera vs Pluralsight](../coursera-vs-pluralsight/) — credentials versus hands-on labs for tech careers
+- [Coursera vs LinkedIn Learning](../coursera-vs-linkedin-learning/) — which credential actually carries weight, and with whom
 
 ---
 

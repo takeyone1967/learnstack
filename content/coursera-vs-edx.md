@@ -47,7 +47,7 @@ This is the part worth internalising before you compare anything else.
 
 The practical consequence: **if your study habits are irregular, edX is structurally cheaper for the same amount of learning** — not because its list prices are lower, but because it doesn't charge you for the calendar time you spend not studying. If you're a reliable finisher working through a lot of material, Coursera Plus at roughly $399/year (often discounted well below that) becomes the better deal precisely because volume is free once you're inside it.
 
-For the full break-even math on the Coursera side, see our [complete Coursera Plus review](../coursera-plus-review/index.html) and our [Coursera pricing breakdown](../coursera-pricing-2026/index.html).
+For the full break-even math on the Coursera side, see our [complete Coursera Plus review](../coursera-plus-review/) and our [Coursera pricing breakdown](../coursera-pricing-2026/).
 
 ## Where Coursera wins
 
@@ -84,7 +84,7 @@ Worth stating plainly, because both platforms bury it: **you can take a large am
 
 If what you want is the knowledge and not the credential, start with audit on both and only pay when you've decided a specific certificate is worth showing someone. Neither platform will push you toward this option, so you have to choose it deliberately.
 
-Coursera also offers **financial aid** on many individual courses via a short application, and a 7-day Coursera Plus trial that can produce a real certificate if you use it deliberately. We break down all three free routes — and the audit limitation that catches most people out — in [what you actually get from Coursera for free](../coursera-free-courses/index.html).
+Coursera also offers **financial aid** on many individual courses via a short application, and a 7-day Coursera Plus trial that can produce a real certificate if you use it deliberately. We break down all three free routes — and the audit limitation that catches most people out — in [what you actually get from Coursera for free](../coursera-free-courses/).
 
 ## FAQ
 
@@ -98,7 +98,7 @@ University-affiliated edX certificates carry real academic weight, particularly 
 Some edX MicroMasters programs offer credit pathways toward a master's degree at the partner university — this is one of edX's genuine advantages. Coursera has degree programs and MasterTrack Certificates that work similarly. In both cases, credit is specific to the partner institution and never automatic; confirm with the university directly before enrolling on that basis.
 
 **What about Coursera vs other platforms?**
-For technical and cloud skills specifically, the more relevant comparison is [Coursera vs Pluralsight](../coursera-vs-pluralsight/index.html), where hands-on labs change the calculation. For AWS certification prep, see our [AWS course comparison](../best-aws-certification-courses-2026/index.html).
+For technical and cloud skills specifically, the more relevant comparison is [Coursera vs Pluralsight](../coursera-vs-pluralsight/), where hands-on labs change the calculation. For AWS certification prep, see our [AWS course comparison](../best-aws-certification-courses-2026/).
 
 **Does edX have anything like Coursera Plus?**
 No. There's no all-access subscription equivalent — edX courses and programs are purchased individually. If subscription-style unlimited access is what you want, Coursera is the only one of the two that offers it.
@@ -109,7 +109,7 @@ Choose based on how you actually study, not on which catalog looks bigger.
 
 **Pick edX** if you want one or two specific courses, study unpredictably, value owning what you paid for, or want a graduate-level program with a possible credit pathway. The one-time purchase model is genuinely kinder to inconsistent learners, and its free audit tier goes further than Coursera's.
 
-**Pick Coursera** if you want a recognisable career certificate, plan to work through multiple programs in a year, or want the volume economics of an all-access subscription. For career changers specifically, the Google and IBM certificates remain the stronger resume signal — see our [guide to Coursera's career certificates](../coursera-career-certificates-2026/index.html).
+**Pick Coursera** if you want a recognisable career certificate, plan to work through multiple programs in a year, or want the volume economics of an all-access subscription. For career changers specifically, the Google and IBM certificates remain the stronger resume signal — see our [guide to Coursera's career certificates](../coursera-career-certificates-2026/).
 
 And if you're undecided, audit something free on both this week before paying either of them a cent. It's the cheapest possible way to find out which platform you'll actually keep opening.
 

@@ -40,13 +40,13 @@ At roughly $59/month or $399/year (about $33/month if you pay annually), Plus ge
 
 **What's reliably excluded from Plus:** degrees and MasterTrack Certificates. **What's murkier:** some premium partner content and — this genuinely varies by certificate and changes over time — certain Professional Certificates. The only way to know for sure: open the specific course or certificate you want and look for the **"Included with Coursera Plus" badge**. Don't assume; check.
 
-For the full break-even math on whether Plus is worth it for your situation, see our [complete Coursera Plus review](../coursera-plus-review/index.html).
+For the full break-even math on whether Plus is worth it for your situation, see our [complete Coursera Plus review](../coursera-plus-review/).
 
 ## Buying a single course or certificate instead
 
 If you only want one thing, paying separately is often cheaper than a Plus subscription — but the buying model isn't uniform across Coursera's catalog. Some individual courses sell as one-time purchases; others (especially Specializations and Professional Certificates) bill monthly until you finish, which quietly punishes anyone who takes longer than planned. **Check which model applies before you commit** — it changes your real cost more than the sticker price does.
 
-Professional Certificates (the Google, IBM, Meta, and Microsoft career-track programs) commonly run in the $39–99/month range, and most people take considerably longer than Coursera's advertised timeline — see our [guide to Coursera's career certificates](../coursera-career-certificates-2026/index.html) for the honest completion-time reality and whether these programs are worth it.
+Professional Certificates (the Google, IBM, Meta, and Microsoft career-track programs) commonly run in the $39–99/month range, and most people take considerably longer than Coursera's advertised timeline — see our [guide to Coursera's career certificates](../coursera-career-certificates-2026/) for the honest completion-time reality and whether these programs are worth it.
 
 ## Financial aid: how it actually works
 
@@ -65,7 +65,7 @@ Coursera offers financial aid on individual courses (not always Specializations)
 We couldn't verify a consumer-facing price increase. The documented 2025–2026 change runs the other direction — expanded regional pricing that lowered costs in many countries. If you saw a higher price, check whether you're being shown a different plan/region default than you expect, or whether a promotional rate you had simply expired.
 
 **Is Coursera Plus worth it if I only want one certificate?**
-Usually no — see the [full Plus review](../coursera-plus-review/index.html) for the break-even math. Roughly speaking, Plus starts winning once you're completing two or more Specializations/certificates in a year.
+Usually no — see the [full Plus review](../coursera-plus-review/) for the break-even math. Roughly speaking, Plus starts winning once you're completing two or more Specializations/certificates in a year.
 
 **Does financial aid really work?**
 It exists, it's real, and it's worth applying for if cost is the barrier — just don't take a specific "approval rate" you read online at face value, since Coursera doesn't publish one.

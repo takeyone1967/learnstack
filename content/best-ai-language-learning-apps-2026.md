@@ -134,6 +134,8 @@ This makes it the only app here that works *completely* hands-free: in the car, 
 
 **Verdict:** If your only realistic practice window is your commute, nothing else here comes close. Pair it with a writing-focused tool later; don't expect it to carry you alone.
 
+If audio-first learning suits you generally, it's worth knowing you can apply the same approach to written material you already have — textbooks, articles, course notes — with a text-to-speech app. We compared the options in our [guide to the best text-to-speech apps for studying](../best-text-to-speech-apps-for-studying/).
+
 **Pros:**
 - Genuinely hands-free — the only true "commute app" here
 - Spaced-repetition audio method with decades of track record

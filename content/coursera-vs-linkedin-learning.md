@@ -45,7 +45,7 @@ This isn't a criticism of the content — LinkedIn Learning's courses are often 
 
 ## Where Coursera wins
 
-**Credentials with external recognition.** For a career change specifically, this is the whole ballgame. See our [guide to Coursera's career certificates](../coursera-career-certificates-2026/index.html) for which programs actually carry weight and what they really take.
+**Credentials with external recognition.** For a career change specifically, this is the whole ballgame. See our [guide to Coursera's career certificates](../coursera-career-certificates-2026/) for which programs actually carry weight and what they really take.
 
 **Graded, structured learning.** Assignments and peer review force retention in a way passive video doesn't. If you're learning something you'll be tested on in an interview, being graded during learning matters.
 
@@ -73,7 +73,7 @@ These can't all be current simultaneously. The most likely explanation is a tran
 
 **What to do about it:** start the free month from LinkedIn's own site and read the price presented in your actual signup flow, for your region and account status. That's the only number that applies to you. Treat every third-party figure — including the ones above — as a rough range, not a quote.
 
-Coursera's pricing is comparatively stable and better documented; we've broken it down in full in our [Coursera pricing guide](../coursera-pricing-2026/index.html).
+Coursera's pricing is comparatively stable and better documented; we've broken it down in full in our [Coursera pricing guide](../coursera-pricing-2026/).
 
 ## Try both free before deciding
 
@@ -82,7 +82,7 @@ Both platforms have real free entry points, and using them is the fastest way to
 - **LinkedIn Learning:** a free month is advertised on the official site — long enough to genuinely work through several courses
 - **Coursera:** a 7-day Coursera Plus trial, plus unlimited free auditing on many individual courses and financial aid on others
 
-We've explained Coursera's free routes and their limits — including the one that catches most people out — in [what you actually get from Coursera for free](../coursera-free-courses/index.html).
+We've explained Coursera's free routes and their limits — including the one that catches most people out — in [what you actually get from Coursera for free](../coursera-free-courses/).
 
 A free month against a free week isn't a fair fight on duration, so use them differently: browse widely on LinkedIn Learning, and use Coursera's shorter trial as a sprint to finish one specific thing.
 
@@ -98,7 +98,7 @@ Yes, LinkedIn Learning access is included across LinkedIn Premium tiers. If you 
 LinkedIn Learning, fairly clearly. Its catalog leans into workplace and leadership skills where Coursera's strengths are more academic and technical.
 
 **Which is better for a career change into tech?**
-Coursera — and for technical depth specifically, also consider the comparison in [Coursera vs Pluralsight](../coursera-vs-pluralsight/index.html), where hands-on labs change the picture. If your interest is university-affiliated study instead, see [Coursera vs edX](../coursera-vs-edx/index.html).
+Coursera — and for technical depth specifically, also consider the comparison in [Coursera vs Pluralsight](../coursera-vs-pluralsight/), where hands-on labs change the picture. If your interest is university-affiliated study instead, see [Coursera vs edX](../coursera-vs-edx/).
 
 **Can I put a Coursera certificate on my LinkedIn profile too?**
 Yes. It takes a few more clicks than LinkedIn Learning's one-click flow, but Coursera certificates display on LinkedIn perfectly well — and carry more weight when they get there.
@@ -107,7 +107,7 @@ Yes. It takes a few more clicks than LinkedIn Learning's one-click flow, but Cou
 
 Pick based on who needs convincing.
 
-**Choose Coursera** if the audience for your learning is someone who doesn't know you — a recruiter, a hiring manager, an admissions process. The graded structure and brand-name certificates exist precisely to be legible to strangers, and for career changers that legibility is the product you're buying. Our [full Coursera Plus review](../coursera-plus-review/index.html) covers whether the subscription earns its price.
+**Choose Coursera** if the audience for your learning is someone who doesn't know you — a recruiter, a hiring manager, an admissions process. The graded structure and brand-name certificates exist precisely to be legible to strangers, and for career changers that legibility is the product you're buying. Our [full Coursera Plus review](../coursera-plus-review/) covers whether the subscription earns its price.
 
 **Choose LinkedIn Learning** if the audience is your current employer or your own competence — staying sharp, filling specific gaps, keeping a visible learning habit on your profile. It's faster, more practical, and quite possibly already paid for by someone else.
 
